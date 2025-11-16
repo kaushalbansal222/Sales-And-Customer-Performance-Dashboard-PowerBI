@@ -1,4 +1,4 @@
-# **📊 Sales & Customer Performance Dashboard **
+# **📊 Sales & Customer Performance Dashboard**
 
 ## **🔍 Overview**
 
