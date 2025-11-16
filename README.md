@@ -1,4 +1,4 @@
-# **📊 Sales & Customer Performance Dashboard – README**
+# **📊 Sales & Customer Performance Dashboard **
 
 ## **🔍 Overview**
 
@@ -13,8 +13,6 @@ This project combines **data modeling, DAX, RFM scoring, What-If analysis, Paret
 * **Total Sales** *(Sales – Returns)*
 * **% Target Achieved**
 * **% Margin** *(Profit / Sales Amount)*
-* **Views / Engagement Metrics (if enabled)*
-
 ---
 
 # **📈 1. Sales Performance Analysis**
