@@ -69,7 +69,7 @@ Then I visualized:
 * Segment-wise sales contribution
 * Buying patterns & growth opportunities
 
-### **b) BONUS – Customer Scoring Model**
+### **b) Customer Scoring Model**
 
 I built a scoring framework combining:
 
